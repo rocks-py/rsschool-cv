@@ -24,7 +24,9 @@ I am an attentive and diligent performer.
 ## Code example:
 [Vaccine passport](https://github.com/rocks-py/django-vaccine-passport) - python/django
 
-
+## Education:
+* HTML Academy
+* Perm State University 2008-2012 Economist-mathematitian
 
 ## Languages:
 * English - Basic
